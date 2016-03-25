@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 0b404b754b435dc4193d203ce1e54ced
+timeCreated: 1458945843
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stand_0
+    21300002: stand_1
+    21300004: stand_2
+    21300006: stand_3
+    21300008: stand_4
+    21300010: eating_0
+    21300012: eating_1
+    21300014: eating_2
+    21300016: eating_3
+    21300018: eating_4
+    21300020: eating_5
+    21300022: dying_0
+    21300024: dying_1
+    21300026: dying_2
+    21300028: dying_3
+    21300030: dying_4
+    21300032: dying_5
+    21300034: dying_6
+    21300036: dying_7
+    21300038: dying_8
+    21300040: dying_9
+    21300042: dying_10
+    21300044: heart_0
+    21300046: heart_1
+    21300048: lostheart_0
+    21300050: lostheart_1
+    21300052: lostheart_2
+    21300054: lostheart_3
+    21300056: lostheart_4
+    21300058: lostheart_5
+    21300060: lostheart_6
+    21300062: lostheart_7
+    21300064: lostheart_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stand_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stand_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 227
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stand_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 224
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stand_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 233
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: stand_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 236
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 168
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 168
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 168
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 167
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 168
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: eating_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 94
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 94
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dying_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heart_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: heart_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 48
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 48
+        width: 13
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 48
+        width: 13
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: lostheart_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 11
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

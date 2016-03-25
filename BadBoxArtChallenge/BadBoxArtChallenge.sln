@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A13DE91-DFEB-70E2-874E-A8170FB09760}") = "BadBoxArtChallenge", "Assembly-CSharp.csproj", "{ED7E79A0-2343-F816-A90A-5CC00702BE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7E79A0-2343-F816-A90A-5CC00702BE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7E79A0-2343-F816-A90A-5CC00702BE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7E79A0-2343-F816-A90A-5CC00702BE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7E79A0-2343-F816-A90A-5CC00702BE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
